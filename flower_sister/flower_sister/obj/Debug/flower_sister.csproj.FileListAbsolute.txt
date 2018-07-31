@@ -1,0 +1,8 @@
+G:\new_package\flower_sister\flower_sister\obj\Debug\ResolveAssemblyReference.cache
+G:\new_package\flower_sister\flower_sister\obj\Debug\flower_sister.Properties.Resources.resources
+G:\new_package\flower_sister\flower_sister\obj\Debug\flower_sister.csproj.GenerateResource.Cache
+G:\new_package\flower_sister\flower_sister\bin\Debug\flower_sister.exe
+G:\new_package\flower_sister\flower_sister\bin\Debug\flower_sister.pdb
+G:\new_package\flower_sister\flower_sister\obj\Debug\flower_sister.exe
+G:\new_package\flower_sister\flower_sister\obj\Debug\flower_sister.pdb
+G:\new_package\flower_sister\flower_sister\obj\Debug\flower_sister.flower_sister.resources
