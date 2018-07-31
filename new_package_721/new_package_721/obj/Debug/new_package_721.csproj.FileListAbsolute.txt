@@ -1,0 +1,8 @@
+G:\new_package\new_package_721\new_package_721\bin\Debug\new_package_721.exe
+G:\new_package\new_package_721\new_package_721\bin\Debug\new_package_721.pdb
+G:\new_package\new_package_721\new_package_721\obj\Debug\ResolveAssemblyReference.cache
+G:\new_package\new_package_721\new_package_721\obj\Debug\new_package_721.Properties.Resources.resources
+G:\new_package\new_package_721\new_package_721\obj\Debug\new_package_721.csproj.GenerateResource.Cache
+G:\new_package\new_package_721\new_package_721\obj\Debug\new_package_721.exe
+G:\new_package\new_package_721\new_package_721\obj\Debug\new_package_721.pdb
+G:\new_package\new_package_721\new_package_721\obj\Debug\new_package_721.new_package.resources
