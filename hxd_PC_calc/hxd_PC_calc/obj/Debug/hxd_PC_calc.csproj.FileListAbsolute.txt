@@ -1,0 +1,8 @@
+G:\calc\hxd_PC_calc\hxd_PC_calc\obj\Debug\ResolveAssemblyReference.cache
+G:\calc\hxd_PC_calc\hxd_PC_calc\obj\Debug\hxd_PC_calc.Form1.resources
+G:\calc\hxd_PC_calc\hxd_PC_calc\obj\Debug\hxd_PC_calc.Properties.Resources.resources
+G:\calc\hxd_PC_calc\hxd_PC_calc\obj\Debug\hxd_PC_calc.csproj.GenerateResource.Cache
+G:\calc\hxd_PC_calc\hxd_PC_calc\bin\Debug\hxd_PC_calc.exe
+G:\calc\hxd_PC_calc\hxd_PC_calc\bin\Debug\hxd_PC_calc.pdb
+G:\calc\hxd_PC_calc\hxd_PC_calc\obj\Debug\hxd_PC_calc.exe
+G:\calc\hxd_PC_calc\hxd_PC_calc\obj\Debug\hxd_PC_calc.pdb
