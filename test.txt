@@ -1,3 +1,7 @@
-git add hxd_PC_calc
+添加新文件
+git add new_package_721
 git commit -m "my calc"
 git push -u origin master
+更改文件
+git commit -a -m '修改备注'
+git push
